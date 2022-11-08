@@ -1,16 +1,6 @@
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=bartoshevich&show_icons=true&theme=github_dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=bartoshevich&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=bartoshevich&show_icons=true" />
-</picture>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartoshevich&show_icons=true&theme=slateorange) 
 ![codewars](https://www.codewars.com/users/rsschool_bdc5caf8415a6083/badges/small)
 
 <!--
