@@ -1,6 +1,7 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartoshevich&show_icons=true&theme=slateorange) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartoshevich&show_icons=true) 
+
 ![codewars](https://www.codewars.com/users/rsschool_bdc5caf8415a6083/badges/small)
 
 <!--
